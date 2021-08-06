@@ -13,7 +13,7 @@
 
 <img align="right" height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=heethjain21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <div>
-    <h6>
+    <h5>
     <ul style="display: inline-block; text-align: left;">
         <li>🏫 I'm a final year IT engineering student (undergraduate)
         </li>
@@ -28,5 +28,5 @@
         <li>💻 I'm looking for oppurtunities where I can get my hands on various tech
         </li>
     </ul>   
-    </h6>        
+    </h5>        
 </div>
