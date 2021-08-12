@@ -25,7 +25,7 @@
         </li>
         <li>🌟 I spend most of my free time in modding/rooting or reading
         </li>
-        <li>💻 I'm looking for oppurtunities where I can get my hands on various tech
+        <li>💻 I'm looking for oppurtunities where I can learn new stuff
         </li>
     </ul>   
     </h5>        
