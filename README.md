@@ -6,7 +6,7 @@
     <!-- Linkedin -->
     <a href="https://www.linkedin.com/in/heethjain21"><img src="https://img.shields.io/badge/-heethjain21-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <!-- Mail -->
-    <a href="mailto:heethjain21@outlook.com"><img src="https://img.shields.io/badge/-heethjain21@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="mailto:hello@heethjain.com"><img src="https://img.shields.io/badge/-hello@heethjain.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <!-- Twitter -->
     <a href="https://twitter.com/heethjain21"><img src="https://img.shields.io/badge/-@heethjain21-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
@@ -25,7 +25,7 @@
         </li>
         <li>🌟 I spend most of my free time in modding/rooting or reading
         </li>
-        <li>💻 I'm looking for opportunities where I can learn new stuff
+        <li>💻 I'm looking for mentor(s)/guide and opportunities to learn and grow
         </li>
     </ul>   
     </h5>        
