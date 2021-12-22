@@ -25,7 +25,7 @@
         </li>
         <li>🌟 I spend most of my free time in modding/rooting or reading
         </li>
-        <li>💻 I'm looking for mentor(s)/guide and opportunities to learn and grow
+        <li>💻 I'm looking for mentor(s)/guide(s) and opportunities to learn and grow
         </li>
     </ul>   
     </h5>        
