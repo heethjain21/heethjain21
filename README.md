@@ -15,7 +15,7 @@
 <div>
     <h5>
     <ul style="display: inline-block; text-align: left;">
-        <li>🏫 I'm a final year IT engineering student (undergraduate)
+        <li>🏫 I'm a final year engineering student (undergrad) from India
         </li>
         <li>🔭 I'm currently working on my problem solving skills
         </li>
