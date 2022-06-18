@@ -1,8 +1,6 @@
-### <h3 align="center">Hello (नमस्ते) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Heeth Jain </h3>
+### <h3 align="center">Hello (नमस्ते) <!--👋--><img src="src/wave.gif" alt="Waving hand animated gif" height="25px" width="25px" />, I'm Heeth Jain </h3>
 
 <p align="center">
-    <!-- Website
-    <a href="https://twitter.com/heethjain21"><img src="https://img.shields.io/badge/-heethjain21.github.io-111111?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
     <!-- Linkedin -->
     <a href="https://www.linkedin.com/in/heethjain21"><img src="https://img.shields.io/badge/-heethjain21-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <!-- Mail -->
@@ -11,11 +9,14 @@
     <a href="https://twitter.com/heethjain21"><img src="https://img.shields.io/badge/-@heethjain21-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
-<img align="right" height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=heethjain21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<!-- <img align="right" height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=heethjain21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+
+<img src="src/transparent.png" align="left" width="25%" height="120px" style="visibility:hidden;"/>
+
 <div>
     <h5>
     <ul style="display: inline-block; text-align: left;">
-        <li>🏫 I'm a final year engineering student (undergrad) from India
+        <li>🏫 I'm a Software Engineer from India, graduated in June 2022
         </li>
         <li>🔭 I'm currently working on my problem solving skills
         </li>
@@ -25,7 +26,7 @@
         </li>
         <li>🌟 I spend most of my free time in modding/rooting or reading
         </li>
-        <li>💻 I'm looking for mentor(s)/guide(s) and opportunities to learn and grow
+        <li>💻 I'm building at <a href="https://github.com/arda-finance">@Arda</a>. Stay tuned!
         </li>
     </ul>   
     </h5>        
