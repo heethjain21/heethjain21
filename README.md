@@ -26,8 +26,6 @@
         </li>
         <li>🌟 I spend most of my free time in modding/rooting or reading
         </li>
-        <li>💻 I'm building at <a href="https://github.com/arda-finance">@Arda</a>. Stay tuned!
-        </li>
     </ul>   
     </h5>        
 </div>
