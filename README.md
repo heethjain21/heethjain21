@@ -14,9 +14,9 @@
 <div>
     <h5>
     <ul style="display: inline-block; text-align: left;">
-        <li>🏫 I'm a Software Engineer from India, building my Solo Software Dev agency.
+        <li>🏫 I'm a Software Engineer from India.
         </li>
-        <li>🔭 I'm currently working on my solving tech problems for early/small stage startups/businesses. Have a tech problem? Let's connect!
+        <li>🔭 I'm currently working on my problem solving skills!
         </li>
         <li>💖 I'm in a complicated relationship with Data Structures & Algorithms
         </li>
